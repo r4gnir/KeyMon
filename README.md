@@ -9,7 +9,7 @@ To get started with KeyMon, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/KeyMon.git
+   git clone https://github.com/r4gnir/KeyMon.git
    cd KeyMon
 
 2. **Install Python and pip (if not already installed)**:
